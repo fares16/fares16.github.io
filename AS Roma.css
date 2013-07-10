@@ -1,0 +1,92 @@
+* {
+		padding:0;
+		margin:0;
+		max-width: 100%;
+	}
+
+ 	body { background-color: orange;
+
+ 	}
+	h1 {
+	margin-left: 550px;
+	margin-top: 50px;
+	font-size: 50px;
+	}
+	.fixed {
+		background-color: rgba(0,0,0,0.2);
+		position: fixed;
+		width: 100%;
+		top: 0px;
+		height: 30px;
+		padding-top: 5px;
+		padding-left: 500px;
+		color: white;
+	}
+	.introbox  {
+		width: 700px;
+		height: 400px;
+		background-color: black;
+	border: solid black;
+	margin-left: -220px;
+	border: solid white;
+	font-size: 20px;
+	color: white;
+	margin-top: 70px;
+
+	}
+	.pic1 {
+		margin-left: 530px;
+		margin-top: 200px;
+	}
+	.introduction{
+		color: white;
+		text-decoration: none;
+	}
+	.history {
+		color: white;
+		text-decoration: none;
+	}
+	.champs {
+		color: white;
+		text-decoration: none;
+	}
+	.box2 {
+    width: 700px;
+		height: 4355px;
+		background-color: black;
+	border: solid black;
+	margin-left: -220px;
+	border: solid white;
+	font-size: 20px;
+	color: white;
+	margin-top: 70px;
+
+	}
+	.players {
+		margin-left: 50px;
+	}
+	h2{
+		color: red;
+	}
+	.box3 
+{
+	width: 700px;
+		height: 409px;
+		background-color: black;
+	border: solid black;
+	margin-left: -220px;
+	border: solid white;
+	font-size: 20px;
+	color: white;
+	margin-top: 70px;
+}
+    .totti{width: 500px;
+		height: 830px;
+		background-color: black;
+	border: solid black;
+	margin-left: -120px;
+	border: solid white;
+	font-size: 20px;
+	color: white;
+	margin-top: 70px;
+}
